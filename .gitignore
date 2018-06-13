@@ -1,6 +1,8 @@
 pkg
 src
 *.tar
+*.gz
+*.xz
 *.sig
 *~
 0001-Cryptomount-support-LUKS-detached-header.patch
